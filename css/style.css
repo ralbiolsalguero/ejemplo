@@ -2,3 +2,17 @@
     padding: 0;
     margin: 0;
 }
+
+
+/*p {
+    font-size: 2vw;
+}*/
+
+.imagen{
+    border: solid 1px red;
+    width: 20%;
+}
+
+.imagen img{
+    width: 100%;
+}
